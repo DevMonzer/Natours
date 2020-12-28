@@ -146,4 +146,5 @@ body {
 }
 
 .btn-white::before {
+  background-color: #fff;
 }
