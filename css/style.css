@@ -135,4 +135,5 @@ body {
 .btn::after {
   content: "";
   display: inline-block;
+  height: 100%;
 }
