@@ -42,11 +42,11 @@ body {
     position: absolute;
     top: 4rem;
     left: 4rem;
-  }
-}
 
-.header__logo {
-  height: 3.5rem;
+    &__logo {
+      height: 3.5rem;
+    }
+  }
 }
 
 .header__text-box {
