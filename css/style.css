@@ -137,4 +137,5 @@ body {
   display: inline-block;
   height: 100%;
   width: 100%;
+  border-radius: 100px;
 }
