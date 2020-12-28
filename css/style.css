@@ -113,6 +113,7 @@ body {
   text-decoration: none;
   padding: 15px 4px;
   display: inline-block;
+  border-radius: 100px;
 }
 
 .btn:hover {
