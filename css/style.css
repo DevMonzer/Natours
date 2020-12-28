@@ -64,6 +64,8 @@ body {
 
 @keyframes moveInRight {
   0% {
+    opacity: 0;
+    transform: translateX(-10rem);
   }
 
   80% {
