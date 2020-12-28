@@ -141,7 +141,7 @@ body {
     display: table;
     clear: both; }
   .row [class^="col-"] {
-    background-color: plum;
+    background-color: purple;
     color: whitesmoke;
     float: left; }
     .row [class^="col-"]:not(:last-child) {
