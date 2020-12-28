@@ -117,6 +117,7 @@ body {
   border-radius: 100px;
   transition: all 0.2s;
   position: relative;
+  transition: all 0.4s;
 }
 
 .btn:hover {
