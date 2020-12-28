@@ -61,3 +61,14 @@ body {
   font-weight: 700;
   letter-spacing: 17.2px;
 }
+
+@keyframes moveInRight {
+  0% {
+  }
+
+  80% {
+  }
+
+  100% {
+  }
+}
