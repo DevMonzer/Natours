@@ -69,8 +69,11 @@ body {
   }
 
   80% {
+    transform: translateX(1rem);
   }
 
   100% {
+    opacity: 1;
+    transform: translate(0);
   }
 }
