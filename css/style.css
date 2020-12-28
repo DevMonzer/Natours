@@ -107,7 +107,6 @@ body {
   }
 }
 
-.btn,
 .btn:link,
 .btn:visited {
   text-transform: uppercase;
@@ -117,7 +116,6 @@ body {
   border-radius: 100px;
   transition: all 0.2s;
   position: relative;
-  transition: all 0.4s;
 }
 
 .btn:hover {
@@ -145,6 +143,7 @@ body {
   top: 0;
   left: 0;
   z-index: -1;
+  transition: all 0.4s;
 }
 
 .btn-white::before {
