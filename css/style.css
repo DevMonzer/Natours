@@ -114,6 +114,7 @@ body {
   padding: 15px 4px;
   display: inline-block;
   border-radius: 100px;
+  transition: all 0.2s;
 }
 
 .btn:hover {
