@@ -125,7 +125,7 @@ body {
   transform: translateY(-1px);
 }
 
-.btn:white {
+.btn-white {
   background-color: #fff;
   color: #777;
 }
