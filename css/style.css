@@ -81,3 +81,10 @@ body {
     transform: translate(0);
   }
 }
+
+@keyframes moveInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+}
