@@ -38,6 +38,7 @@ body {
 
 .heading-primary {
   color: #fff;
+  text-transform: uppercase;
 }
 
 .heading-primary-main {
