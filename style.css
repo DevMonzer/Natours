@@ -28,6 +28,7 @@ body {
 
 .logo-box {
   position: absolute;
+  top: 40px;
 }
 
 .logo {
