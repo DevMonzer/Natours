@@ -42,19 +42,17 @@ body {
     position: absolute;
     top: 4rem;
     left: 4rem;
-
-    &__logo {
-      height: 3.5rem;
-    }
   }
-}
-
-.header__text-box {
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
+  &__logo {
+    height: 3.5rem;
+  }
+  .header__text-box {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
 }
 
 .heading-primary {
