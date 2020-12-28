@@ -107,6 +107,13 @@ body {
   }
 }
 
+@keyframes moveInBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+}
+
 .btn:link,
 .btn:visited {
   text-transform: uppercase;
