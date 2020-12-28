@@ -53,6 +53,9 @@ body {
   font-size: 60px;
   font-weight: 400;
   letter-spacing: 35px;
+
+  animation-name: moveInRight;
+  animation-duration: 1s;
 }
 
 .heading-primary-sub {
