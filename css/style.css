@@ -49,6 +49,7 @@ body {
   text-transform: uppercase;
 
   backface-visibility: hidden;
+  margin-bottom: 60px;
 }
 
 .heading-primary-main {
@@ -111,4 +112,5 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   padding: 15px 4px;
+  display: inline-block;
 }
