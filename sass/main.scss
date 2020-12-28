@@ -21,7 +21,7 @@ body {
   font-weight: 400;
   /* font-size: 16px; */
   line-height: 1.7;
-  color: #777;
+  color: $color-gray-dark;
   box-sizing: border-box;
 }
 
@@ -156,7 +156,7 @@ body {
 
 .btn--white {
   background-color: #fff;
-  color: #777;
+  color: $color-gray-dark;
 }
 
 .btn::after {
