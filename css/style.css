@@ -38,6 +38,7 @@ body {
 
 .text-box {
   position: absolute;
+  top: 50%;
 }
 
 .heading-primary {
