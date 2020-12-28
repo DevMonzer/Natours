@@ -87,4 +87,8 @@ body {
     opacity: 0;
     transform: translateX(-100px);
   }
+
+  80% {
+    transform: translateX(10px);
+  }
 }
