@@ -54,7 +54,7 @@ body {
   font-weight: 400;
   letter-spacing: 35px;
 
-  animation-name: moveInRight;
+  animation-name: moveInLeft;
   animation-duration: 1s;
   animation-timing-function: ease-out;
 }
@@ -66,7 +66,7 @@ body {
   letter-spacing: 17.2px;
 }
 
-@keyframes moveInRight {
+@keyframes moveInLeft {
   0% {
     opacity: 0;
     transform: translateX(-100px);
