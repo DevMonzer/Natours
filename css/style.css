@@ -42,6 +42,7 @@ body {
 }
 
 .heading-primary-main {
+  display: block;
 }
 
 .heading-primary-sub {
