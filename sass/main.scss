@@ -22,6 +22,7 @@ body {
   /* font-size: 16px; */
   line-height: 1.7;
   color: $color-gray-dark;
+  padding: 2rem;
   box-sizing: border-box;
 }
 
@@ -36,7 +37,7 @@ body {
   background-size: cover;
   background-position: top;
 
-  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
 
   &__logo-box {
     position: absolute;
