@@ -36,6 +36,10 @@ body {
   height: 35px;
 }
 
+.text-box {
+  position: absolute;
+}
+
 .heading-primary {
   color: #fff;
   text-transform: uppercase;
