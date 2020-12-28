@@ -1,7 +1,7 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
 html {
@@ -14,6 +14,7 @@ body {
   /* font-size: 16px; */
   line-height: 1.7;
   color: #777;
+  box-sizing: border-box;
 }
 
 .header {
