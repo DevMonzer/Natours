@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours || Exciting tours for adventures people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMonzer/Natours.git"
+  },
+  "author": "Monzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMonzer/Natours/issues"
+  },
+  "homepage": "https://github.com/DevMonzer/Natours#readme"
+}
