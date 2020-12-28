@@ -153,4 +153,5 @@ body {
 
 .btn:hover::after {
   transform: scale(1.5);
+  opacity: 0;
 }
