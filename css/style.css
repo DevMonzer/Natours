@@ -107,6 +107,7 @@ body {
   }
 }
 
+.btn,
 .btn:link,
 .btn:visited {
   text-transform: uppercase;
@@ -150,5 +151,5 @@ body {
 }
 
 .btn:hover::after {
-  transform: scale(2);
+  transform: scale(1.5);
 }
