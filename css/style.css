@@ -178,7 +178,8 @@ body {
     transition: all 0.8s ease;
     position: absolute;
     top: 0;
-    left: 0; }
+    left: 0;
+    width: 100%; }
     .card__side--front {
       background-color: #fff; }
     .card__side--back {
