@@ -170,7 +170,8 @@ body {
 .card {
   perspective: 150rem;
   position: relative;
-  -moz-prespective: 150rem; }
+  -moz-prespective: 150rem;
+  height: 50rem; }
   .card__side {
     color: #fff;
     font-size: 2rem;
