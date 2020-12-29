@@ -2,7 +2,10 @@
   // Functionality
   perspective: 150rem;
   -moz-prespective: 150rem;
-  height: 50rem;
+
+  &__side {
+    height: 50rem;
+  }
 
   &:hover {
     transform: rotateY(180deg);
