@@ -111,6 +111,10 @@
   }
 
   &__heading-span {
+    padding: 1rem 1.5rem;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+
     &--1 {
       background-image: linear-gradient(
         to right bottom,
