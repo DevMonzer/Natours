@@ -62,5 +62,13 @@
 
   // Front side styling
   &__picture {
+    &--1 {
+      background-image: linear-gradient(
+          to right bottom,
+          $color-secondary-light,
+          $color-secondary-dark
+        ),
+        url(../img/nat-5.jpg);
+    }
   }
 }
