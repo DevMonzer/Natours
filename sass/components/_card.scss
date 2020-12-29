@@ -78,5 +78,14 @@
         ),
         url(../img/nat-5.jpg);
     }
+
+    &--2 {
+      background-image: linear-gradient(
+          to right bottom,
+          $color-primary-light,
+          $color-primary-dark
+        ),
+        url(../img/nat-6.jpg);
+    }
   }
 }

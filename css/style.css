@@ -209,6 +209,8 @@ body {
     border-top-right-radius: 3px; }
     .card__picture--1 {
       background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/nat-5.jpg); }
+    .card__picture--2 {
+      background-image: linear-gradient(to right bottom, #7ed65f, #28ba58), url(../img/nat-6.jpg); }
 
 .composition {
   position: relative; }
