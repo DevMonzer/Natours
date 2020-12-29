@@ -268,3 +268,5 @@ body {
   background-size: cover;
   margin-top: -10rem;
   transform: skewY(-7deg); }
+  .section-features > * {
+    transform: skewY(7deg); }
