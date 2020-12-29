@@ -158,7 +158,9 @@ body {
   transition: all 0.2s; }
 
 .btn-text:hover {
-  background-color: #55c57a; }
+  background-color: #55c57a;
+  color: #fff;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15); }
 
 .header {
   height: 95vh;
