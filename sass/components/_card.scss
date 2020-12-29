@@ -1,6 +1,7 @@
 .card {
   // Functionality
   perspective: 150rem;
+  position: relative;
   -moz-prespective: 150rem;
 
   &__side {

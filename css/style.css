@@ -169,6 +169,7 @@ body {
 
 .card {
   perspective: 150rem;
+  position: relative;
   -moz-prespective: 150rem; }
   .card__side {
     color: #fff;
