@@ -209,6 +209,8 @@ body {
     background-image: linear-gradient(to right, #7ed65f, #28ba58);
     -webkit-background-clip: text;
     color: transparent; }
+  .feature-box:hover {
+    transform: translateY(-1.5rem) scale(1.03); }
 
 .header {
   height: 95vh;
