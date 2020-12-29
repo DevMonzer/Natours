@@ -73,7 +73,9 @@ body {
   font-size: 3.5rem;
   text-transform: uppercase;
   font-weight: 700;
-  background-image: linear-gradient(to right, #7ed65f, #28ba58); }
+  display: inline-block;
+  background-image: linear-gradient(to right, #7ed65f, #28ba58);
+  -webkit-background-clip: text; }
 
 .btn:link, .btn:visited {
   text-transform: uppercase;
