@@ -16,6 +16,7 @@
     width: 100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+    border-radius: 3px;
 
     &--front {
       background-color: $color-white;
