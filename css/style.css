@@ -70,7 +70,8 @@ body {
     animation: moveInRight 1s ease-out; }
 
 .heading-secondary {
-  font-size: 3.5rem; }
+  font-size: 3.5rem;
+  text-transform: uppercase; }
 
 .btn:link, .btn:visited {
   text-transform: uppercase;
