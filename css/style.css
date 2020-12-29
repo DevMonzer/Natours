@@ -174,7 +174,8 @@ body {
     color: #fff;
     font-size: 2rem;
     height: 50rem;
-    transition: all 0.8s ease; }
+    transition: all 0.8s ease;
+    position: absolute; }
     .card__side--front {
       background-color: #fff; }
     .card__side--back {
