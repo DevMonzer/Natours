@@ -179,7 +179,8 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%; }
+    width: 100%;
+    backface-visibility: hidden; }
     .card__side--front {
       background-color: #fff; }
     .card__side--back {
