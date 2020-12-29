@@ -8,7 +8,7 @@
     transition: all 0.8s ease;
   }
 
-  &:hover {
+  &:hover &__side {
     transform: rotateY(180deg);
   }
 }
