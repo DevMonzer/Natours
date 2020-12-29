@@ -167,6 +167,17 @@ body {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   transform: translateY(0); }
 
+.card {
+  perspective: 150rem;
+  -moz-prespective: 150rem; }
+  .card__side {
+    color: #fff;
+    font-size: 2rem;
+    height: 50rem;
+    transition: all 0.8s ease; }
+  .card:hover .card__side {
+    transform: rotateY(180deg); }
+
 .composition {
   position: relative; }
   .composition__photo {
