@@ -53,3 +53,11 @@
     animation-fill-mode: backwards;
   }
 }
+
+.btn-text {
+  &:link,
+  &:visited {
+    font-size: $default-font-size;
+    color: $color-primary;
+  }
+}
