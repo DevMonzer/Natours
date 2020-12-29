@@ -175,7 +175,9 @@ body {
     font-size: 2rem;
     height: 50rem;
     transition: all 0.8s ease;
-    position: absolute; }
+    position: absolute;
+    top: 0;
+    left: 0; }
     .card__side--front {
       background-color: #fff; }
     .card__side--back {

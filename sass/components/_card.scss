@@ -9,6 +9,8 @@
     height: 50rem;
     transition: all 0.8s ease;
     position: absolute;
+    top: 0;
+    left: 0;
 
     &--front {
       background-color: $color-white;
