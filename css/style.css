@@ -214,7 +214,8 @@ body {
     .card__picture--3 {
       background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/nat-7.jpg); }
   .card__heading {
-    font-size: 2.5rem; }
+    font-size: 2.5rem;
+    font-weight: 300; }
 
 .composition {
   position: relative; }
