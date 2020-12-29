@@ -218,7 +218,11 @@ body {
     font-weight: 300;
     text-transform: uppercase;
     color: #fff;
-    text-align: right; }
+    text-align: right;
+    position: absolute;
+    top: 12rem;
+    right: 2rem;
+    width: 75%; }
 
 .composition {
   position: relative; }
