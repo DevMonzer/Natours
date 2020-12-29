@@ -75,7 +75,10 @@ body {
   font-weight: 700;
   display: inline-block;
   background-image: linear-gradient(to right, #7ed65f, #28ba58);
-  -webkit-background-clip: text; }
+  -webkit-background-clip: text;
+  color: transparent; }
+  .heading-secondary:hover {
+    transform: skewY(2deg) skewX(15deg) scale(1.1); }
 
 .btn:link, .btn:visited {
   text-transform: uppercase;
