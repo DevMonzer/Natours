@@ -4,6 +4,7 @@
     box-shadow: 0 1.5rem 4rem rgba($color-black, 0.4);
     border-radius: 2px;
     position: absolute;
+    z-index: 10;
   }
 
   &--p1 {
@@ -22,5 +23,6 @@
   &:hover {
     outline: 1.5rem solid $color-primary;
     transform: scale(1.05);
+    z-index: 20;
   }
 }
