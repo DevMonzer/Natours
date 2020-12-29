@@ -1,4 +1,6 @@
 .card {
+  perspective: 150rem;
+  -moz-prespective: 150rem;
   height: 50rem;
 
   &:hover {
