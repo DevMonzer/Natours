@@ -62,6 +62,8 @@
 
   // Front side styling
   &__picture {
+    background-size: cover;
+
     &--1 {
       background-image: linear-gradient(
           to right bottom,
