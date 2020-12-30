@@ -247,7 +247,8 @@ body {
         .card__details ul li:not(:last-child) {
           border-bottom: 1px solid #eee; }
   .card__cta {
-    position: absolute; }
+    position: absolute;
+    top: 50%; }
 
 .composition {
   position: relative; }
