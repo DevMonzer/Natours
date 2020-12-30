@@ -258,7 +258,8 @@ body {
     color: #fff;
     margin-bottom: 8rem; }
   .card__price-only {
-    font-size: 1.4rem; }
+    font-size: 1.4rem;
+    text-transform: uppercase; }
 
 .composition {
   position: relative; }
