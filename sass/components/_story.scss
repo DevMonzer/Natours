@@ -27,4 +27,7 @@
   &__text {
     transform: skewX(12deg);
   }
+
+  &:hover &__img {
+  }
 }
