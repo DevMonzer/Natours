@@ -39,4 +39,7 @@
     display: block;
     transition: all 0.3s;
   }
+
+  &__input:placeholder-shown + &__label {
+  }
 }
