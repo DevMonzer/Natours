@@ -26,4 +26,7 @@
   &:focus:invalid {
     border-bottom: 3px solid $color-secondary-dark;
   }
+
+  &::-webkit-input-placeholder {
+  }
 }
