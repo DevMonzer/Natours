@@ -12,5 +12,8 @@
 
   &__content {
     @include absCenter;
+
+    width: 75%;
+    background-color: $color-white;
   }
 }
