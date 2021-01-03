@@ -131,4 +131,8 @@
       top: 0.8rem;
     }
   }
+
+  &__button:hover &__icon::before {
+    top: -1rem;
+  }
 }
