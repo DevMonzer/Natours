@@ -31,5 +31,9 @@
   &__link {
     &:link,
     &:visited {
+        color: $color-gray-light-1;
+            background-color: $color-gray-dark-3;
+            text-decoration: none;
+            
     }
 }
