@@ -468,6 +468,13 @@ body {
     list-style: none; }
   .footer__item {
     display: inline-block; }
+  .footer__link:link, .footer__link:visited {
+    color: #f7f7f7;
+    background-color: #333;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    transition: all 0.2s; }
 
 .header {
   height: 95vh;
