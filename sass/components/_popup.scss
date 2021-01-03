@@ -69,6 +69,7 @@
     &:link,
     &:visited {
       color: $color-gray-dark;
+      position: absolute;
     }
   }
 }
