@@ -53,6 +53,9 @@
     column-gap: 4rem; //1em = 14px;
     column-rule: 1px solid $color-gray-light-2;
 
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
     hyphens: auto;
   }
 }
