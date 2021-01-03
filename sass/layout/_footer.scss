@@ -27,4 +27,9 @@
   &__item {
     display: inline-block;
   }
+
+  &__link {
+    &:link,
+    &:visited {
+    }
 }
