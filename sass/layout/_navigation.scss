@@ -116,4 +116,12 @@
     background-color: $color-gray-dark-3;
     display: inline-block;
   }
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    transition: all 0.2s;
+  }
 }
