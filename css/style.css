@@ -466,6 +466,8 @@ body {
     display: inline-block; }
   .footer__list {
     list-style: none; }
+  .footer__item {
+    display: inline-block; }
 
 .header {
   height: 95vh;
