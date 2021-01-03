@@ -467,7 +467,8 @@ body {
   .footer__list {
     list-style: none; }
   .footer__item {
-    display: inline-block; }
+    display: inline-block;
+    padding: 0 1rem; }
   .footer__link:link, .footer__link:visited {
     color: #f7f7f7;
     background-color: #333;
