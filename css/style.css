@@ -464,6 +464,8 @@ body {
     border-top: 1px solid #777;
     padding-top: 2rem;
     display: inline-block; }
+  .footer__list {
+    list-style: none; }
 
 .header {
   height: 95vh;
