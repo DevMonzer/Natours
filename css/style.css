@@ -626,6 +626,10 @@ body {
   z-index: 1000;
   transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
 
+.navigation__nav {
+  height: 100vh;
+  position: fixed; }
+
 .section-about {
   background-color: #f7f7f7;
   padding: 25rem 0;
