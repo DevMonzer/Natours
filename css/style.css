@@ -615,6 +615,10 @@ body {
   text-align: center;
   cursor: pointer; }
 
+.navigation__background {
+  height: 6rem;
+  width: 6rem; }
+
 .section-about {
   background-color: #f7f7f7;
   padding: 25rem 0;
