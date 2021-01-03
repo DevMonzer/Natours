@@ -602,6 +602,11 @@ body {
 .navigation__checkbox {
   display: none; }
 
+.navigation__button {
+  background-color: #fff;
+  height: 7rem;
+  width: 7rem; }
+
 .section-about {
   background-color: #f7f7f7;
   padding: 25rem 0;
