@@ -38,5 +38,12 @@
       display: inline-block;
       transition: all 0.2s;
     }
+
+    &:hover,
+    &:active {
+      color: $color-primary;
+      box-shadow: 0 1rem 2rem rgba($color-black, 0.4);
+      transform: rotate(5deg) scale(1.3);
+    }
   }
 }
