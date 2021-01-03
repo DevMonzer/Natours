@@ -124,4 +124,11 @@
     left: 0;
     transition: all 0.2s;
   }
+
+  &::before {
+    top: -0.8rem;
+  }
+  &::after {
+    top: 0.8rem;
+  }
 }
