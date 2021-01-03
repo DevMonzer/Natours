@@ -23,4 +23,9 @@
     transform: translate(-50%, -50%) scale(0.25);
     transition: all 0.5s 0.2s;
   }
+
+  &__left {
+    width: 33.333333%;
+    display: table-cell;
+  }
 }
