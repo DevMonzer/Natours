@@ -460,6 +460,8 @@ body {
   .footer__logo {
     width: 15rem;
     height: auto; }
+  .footer .navigation {
+    border-top: 1px solid #777; }
 
 .header {
   height: 95vh;
