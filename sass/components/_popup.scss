@@ -64,4 +64,11 @@
     opacity: 1;
     visibility: visible;
   }
+
+  &__close {
+    &:link,
+    &:visited {
+      color: $color-gray-dark;
+    }
+  }
 }
