@@ -9,4 +9,8 @@
   opacity: 0;
   visibility: hidden;
   transition: all 0.3s;
+
+  &__content {
+    @include absCenter;
+  }
 }
