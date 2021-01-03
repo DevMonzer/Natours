@@ -48,5 +48,9 @@
     -moz-column-count: 2;
     -moz-column-gap: 4rem; //1em = 14px;
     -moz-column-rule: 1px solid $color-gray-light-2;
+
+    column-count: 2;
+    column-gap: 4rem; //1em = 14px;
+    column-rule: 1px solid $color-gray-light-2;
   }
 }
