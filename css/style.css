@@ -680,7 +680,8 @@ body {
   cursor: pointer; }
   @media only screen and (max-width: 56.25em) {
     .navigation__button {
-      top: 1.5rem; } }
+      top: 1.5rem;
+      right: 1.5rem; } }
 
 .navigation__background {
   height: 6rem;
