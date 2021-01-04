@@ -425,6 +425,9 @@ body {
   width: 90%;
   display: block;
   transition: all 0.3s; }
+  @media only screen and (max-width: 56.25em) {
+    .form__input {
+      width: 100%; } }
   .form__input:focus {
     outline: none;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
@@ -556,6 +559,20 @@ body {
     line-height: 1; }
   .popup__close:hover {
     color: #55c57a; }
+  @media only screen and (max-width: 112.5em) {
+    .popup__left {
+      width: 40%; }
+    .popup__right {
+      width: 60%; }
+    .popup__img {
+      height: 40rem; } }
+  @media only screen and (max-width: 75em) {
+    .popup__left {
+      width: 30%; }
+    .popup__right {
+      width: 70%; }
+    .popup__img {
+      height: 35rem; } }
 
 .story {
   width: 75%;
