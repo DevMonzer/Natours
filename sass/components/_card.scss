@@ -189,6 +189,7 @@
   @include respond(tab-port) {
     height: auto;
     border-radius: 3px;
+    background-color: #fff;
 
     &__side {
       height: auto;
