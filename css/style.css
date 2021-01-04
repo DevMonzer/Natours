@@ -573,6 +573,13 @@ body {
       width: 70%; }
     .popup__img {
       height: 35rem; } }
+  @media only screen and (max-width: 56.25em) {
+    .popup__left {
+      width: 20%; }
+    .popup__right {
+      width: 80%; }
+    .popup__img {
+      height: 40rem; } }
 
 .story {
   width: 75%;

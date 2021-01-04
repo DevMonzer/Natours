@@ -116,4 +116,18 @@
       height: 35rem;
     }
   }
+
+  @include respond(tab-port) {
+    &__left {
+      width: 20%;
+    }
+
+    &__right {
+      width: 80%;
+    }
+
+    &__img {
+      height: 40rem;
+    }
+  }
 }
