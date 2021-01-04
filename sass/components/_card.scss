@@ -188,11 +188,11 @@
 
   @include respond(tab-port) {
     height: auto;
+    border-radius: 3px;
 
     &__side {
       height: auto;
       position: relative;
-      border-radius: 3px;
 
       &--back {
         transform: rotateY(0);
