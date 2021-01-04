@@ -187,9 +187,6 @@
   }
 
   @include respond(tab-port) {
-    perspective: 150rem;
-    position: relative;
-    -moz-prespective: 150rem;
     height: 50rem;
 
     &__side {
