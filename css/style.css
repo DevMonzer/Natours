@@ -866,6 +866,9 @@ body {
   position: relative;
   padding: 15rem 0;
   margin-top: -10rem; }
+  @media only screen and (max-width: 56.25em) {
+    .section-stories {
+      padding: 10rem 0; } }
 
 .section-book {
   padding: 15rem 0;

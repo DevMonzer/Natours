@@ -44,6 +44,10 @@
   position: relative;
   padding: 15rem 0;
   margin-top: -10rem;
+
+  @include respond(tab-port) {
+    padding: 10rem 0;
+  }
 }
 
 .section-book {
