@@ -189,7 +189,7 @@
   @include respond(tab-port) {
     height: auto;
     border-radius: 3px;
-    background-color: #fff;
+    background-color: $color-white;
 
     &__side {
       height: auto;
