@@ -94,5 +94,9 @@
     @include respond(tab-land) {
       width: 65%;
     }
+
+    @include respond(tab-port) {
+      width: 100%;
+    }
   }
 }
