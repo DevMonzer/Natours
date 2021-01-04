@@ -12,3 +12,23 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+// Media query manager
+/*
+0 - 600:	 	Phone 
+600 - 900:		Tablet portrait 
+900 - 1200: 	Tablet landscape 
+[1200 - 1800] is where our normal styles apply 
+1800px + : 		Big disktop
+
+$breakpoint argument choices: 
+- phone 
+- tab-port
+- tab-land
+- big-desktop
+
+ORDER: Base + typography > general layout + grid > page layout > components
+
+
+1em = 16px
+*/
