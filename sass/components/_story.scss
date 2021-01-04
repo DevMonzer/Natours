@@ -27,6 +27,10 @@
     position: relative;
     overflow: hidden;
     border-radius: 50%;
+
+    @include respond(phone) {
+      transform: translateX(-3rem) skewX(0);
+    }
   }
 
   &__img {

@@ -579,6 +579,9 @@ body {
     position: relative;
     overflow: hidden;
     border-radius: 50%; }
+    @media only screen and (max-width: 37.5em) {
+      .story__shape {
+        transform: translateX(-3rem) skewX(0); } }
   .story__img {
     height: 100%;
     transform: translateX(-4rem) scale(1.4);
