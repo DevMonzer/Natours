@@ -90,5 +90,9 @@
   &__form {
     width: 50%;
     padding: 6rem;
+
+    @include respond(tab-land) {
+      width: 65%;
+    }
   }
 }

@@ -889,3 +889,6 @@ body {
   .book__form {
     width: 50%;
     padding: 6rem; }
+    @media only screen and (max-width: 75em) {
+      .book__form {
+        width: 65%; } }
