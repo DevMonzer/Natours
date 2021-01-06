@@ -430,6 +430,9 @@ body {
     background-image: linear-gradient(to right, #7ed65f, #28ba58);
     -webkit-background-clip: text;
     color: transparent; }
+    @media only screen and (max-width: 56.25em) {
+      .feature-box__icon {
+        margin-bottom: 0; } }
   .feature-box:hover {
     transform: translateY(-1.5rem) scale(1.03); }
 
