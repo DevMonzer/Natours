@@ -32,6 +32,12 @@
     &--p3 {
       left: 20%;
       top: 10rem;
+
+      @include respond(tab-port) {
+        top: 1rem;
+        left: 0;
+        transform: scale(1.1);
+      }
     }
 
     &:hover {
