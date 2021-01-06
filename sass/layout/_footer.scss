@@ -40,6 +40,10 @@
   &__item {
     display: inline-block;
     padding: 0 1rem;
+
+    &:not(:last-child) {
+      margin-right: 1.5rem;
+    }
   }
 
   &__link {
