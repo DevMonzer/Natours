@@ -630,6 +630,8 @@ body {
   @media only screen and (max-width: 37.5em) {
     .story {
       transform: skewX(0); } }
+  .story > * {
+    transform: skewX(12deg); }
   .story__shape {
     width: 15rem;
     height: 15rem;
