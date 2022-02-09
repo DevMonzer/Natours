@@ -12,4 +12,3 @@ Watch live -> https://devmonzer.github.io/Natours/
 * HTML5
 * CSS3
 * SASS
-
