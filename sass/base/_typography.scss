@@ -5,6 +5,11 @@ body {
   line-height: 1.7;
   color: $color-gray-dark;
   padding: 3rem;
+
+  @include respond(tab-port) {
+    // width < 900?
+    padding: 0rem;
+  }
 }
 
 .heading-primary {
