@@ -14,3 +14,4 @@ It's not responsive on mobile screens
 * HTML5
 * CSS3
 * SASS
+* Advanced CSS3 Animations
