@@ -7,9 +7,20 @@ Watch live -> https://devmonzer.github.io/Natours/
 
 Fully responsive on all screens 
 
-## What to do 
-1. Clone this repo
-2. Run `npm install`to download the node_modules folder 
+
+```bash
+Clone the repo
+```
+
+### Run
+
+```bash
+npm start
+```
+
+```bash
+Enjoy
+```  
 
 ## Technologies ⚙️
 
