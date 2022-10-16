@@ -7,7 +7,7 @@ Watch live -> https://devmonzer.github.io/Natours/
 
 Fully responsive on all screens 
 
-
+ 
 ```bash
 Clone the repo
 ```
